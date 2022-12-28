@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/99671469/209770194-153cd892-0f1e-40c0-a335-7c7bcef5386c.png)
+![logo](https://user-images.githubusercontent.com/99671469/209770597-187872fc-cb84-4c4c-bc61-3810eefc7d48.png)
 
 # [Telegram AI ChatBot](https://t.me/RoboPal_bot)
 
@@ -8,9 +8,6 @@ can execute many tasks with eaze such as writing an essay,
 asking about good places to eat, asking it to debug, write, explain
 code. And many more. [Try it yourself](https://t.me/RoboPal_bot)
 
-
-
-
 #
 
 ![App Screenshot](https://user-images.githubusercontent.com/99671469/209767190-fd76f1e8-a1f0-43ee-8ff6-20d9d7c24b5f.png)
@@ -18,7 +15,6 @@ code. And many more. [Try it yourself](https://t.me/RoboPal_bot)
 As you can see the bot is working fantastically without any issues.
 It's truly a master piece. Ok, now let us see how this fantastic
 piece of software works.
-
 
 ## How it works
 
