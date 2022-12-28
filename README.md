@@ -1,5 +1,3 @@
-![logo](https://user-images.githubusercontent.com/99671469/209770597-187872fc-cb84-4c4c-bc61-3810eefc7d48.png)
-
 # [Telegram AI ChatBot](https://t.me/RoboPal_bot)
 
 This is an AI chatbot made by Sahil Yadav and Sanjeev Yadav. It
